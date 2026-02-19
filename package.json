@@ -1,0 +1,12 @@
+{
+  "name": "my-project",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "check": "biome check ."
+  },
+  "devDependencies": {}
+}

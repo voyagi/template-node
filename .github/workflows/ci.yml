@@ -6,3 +6,4 @@ jobs:
     with:
       run-build: true
       run-tests: true
+      run-knip: true
